@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "defaultSetId": "codescope-default",
+  "defaultSetId": "c-java-loop-foundations",
   "sets": [
     {
       "id": "c-java-loop-foundations",
